@@ -1,0 +1,15 @@
+
+Library/*
+Temp/*
+obj/*
+ProjectSettings/*
+
+*.sln
+*.vcproj
+*.csproj
+*.unityproj
+*.userprefs
+
+Assets/AssetBundleGraph/Cache*
+Assets/AssetBundleGraph/SavedSettings*
+Assets/AssetBundleGraph/SettingFiles*
